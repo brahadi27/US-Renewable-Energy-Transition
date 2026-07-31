@@ -4,7 +4,7 @@ Analyzing U.S. electricity generation trends to evaluate renewable energy adopti
 
 ## Project Goals
 
-* Analyze 10+ years of electricity generation data across U.S. states
+* Analyze 20+ years of electricity generation data across U.S. states
 * Compare renewable generation with coal generation
 * Calculate renewable energy shares over time
 * Identify each state's **Pivot Year** — when renewable generation surpasses coal
